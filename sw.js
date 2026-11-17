@@ -1,6 +1,6 @@
 // Guarda o app todo no celular para funcionar offline.
 // Ao criar um arquivo novo, adicione em FILES e aumente VERSION.
-const VERSION = 'v5';
+const VERSION = 'v6';
 const FILES = [
   './', 'index.html', 'styles.css', 'app.js', 'core.js', 'logic.js', 'manifest.webmanifest',
   'games/impostor.js', 'games/espiao.js', 'games/palavra-proibida.js', 'games/misterios.js', 'games/nem-a-pato.js', 'games/pergunta.js',
